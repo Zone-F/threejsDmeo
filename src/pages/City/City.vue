@@ -3,22 +3,28 @@
 </template>
 
 <script setup>
-import { onMounted } from 'vue'
-import { initRFID } from './index'
+import { onMounted } from "vue";
+import { initCity } from "./entry/index";
 onMounted(() => {
   // 初始化三维场景
-  initRFID();
-})
+  initCity();
+});
 </script>
 
 <style scoped>
-#webgl{
-  width: 100%;
-  height: 100%;
-  /* position: absolute;
-  top: 0;
-  left: 0; */
-  outline: none;
+*{
+  margin: 0;
+  padding: 0;
 }
 
+html, body{
+  overflow: hidden;
+}
+
+#webgl{
+  position: fixed;
+  top: 0;
+  left: 0;
+  outline: none;
+}
 </style>

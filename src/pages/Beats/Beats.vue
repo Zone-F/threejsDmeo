@@ -4,10 +4,10 @@
 
 <script setup>
 import { onMounted } from 'vue'
-import { initRFID } from './index'
+import { init } from './index'
 onMounted(() => {
   // 初始化三维场景
-  initRFID();
+  init();
 })
 </script>
 

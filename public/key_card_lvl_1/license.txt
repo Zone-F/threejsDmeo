@@ -1,0 +1,11 @@
+Model Information:
+* title:	key card lvl 1
+* source:	https://sketchfab.com/3d-models/key-card-lvl-1-56d43a5aeb6340948cbe7d357d25ef96
+* author:	StayLord (https://sketchfab.com/StayLord)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "key card lvl 1" (https://sketchfab.com/3d-models/key-card-lvl-1-56d43a5aeb6340948cbe7d357d25ef96) by StayLord (https://sketchfab.com/StayLord) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
